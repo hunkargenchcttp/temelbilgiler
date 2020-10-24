@@ -1,1 +1,2 @@
 print("Hünkar")
+print("Hünkar")
